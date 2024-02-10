@@ -4,7 +4,7 @@ A simple number guessing game implemented in JavaScript. Users can guess the tar
 
 ## Play Online
 
-You can play the game online by visiting the [Number Guessing Game](https://your-live-link.com).
+You can play the game online by visiting the https://yuga2003.github.io/NumberGuessingGame/
 
 ## How to Play Locally
 

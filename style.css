@@ -1,0 +1,14 @@
+body{
+    background-color: #075568;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background-color: rgb(212, 171, 95);
+    padding: 7%;
+    margin: 5%;
+    width:100vh ;
+}
